@@ -4,7 +4,7 @@
   <h1>{{title}}
 </div>
 
-  </template
+</template>
 <script>
 export default{
   name: "BookList",
@@ -15,6 +15,7 @@ export default{
   }
 }
 </script>
+
 <style>
 
   h1, h2{
